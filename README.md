@@ -8,7 +8,7 @@
 
 **About me** <picture><img src=https://github.com/XxrzxX/XxrzxX/blob/main/Profile-Readme/assests/img/hii.ico width=30px align="center"></picture> 
 
-I'm Digital Forensics 🔍💻& Threat Hunter 👾
+I'm Digital Forensics 🔍💻& Threat Hunter 👾  currently geeking out over Cloud Computing☁️! 
 
 Here, you will find some study notes 📚📑 , write-ups, and some of my projects. 💼
 
